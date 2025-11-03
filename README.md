@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Kweku Dzata<br><br>I’m an aspiring Data Scientist and Software Engineer passionate about solving real-world problems through data, algorithms, and technology. Currently, I’m learning Python to build strong foundations in programming, data analysis, and software development.<br><br>🌱 Exploring Python for data science, automation, and backend development<br><br>📊 Interested in machine learning, data visualization, and AI applications<br><br>💻 Building projects to sharpen my skills and contribute to open-source<br><br>🚀 Long-term goal: combine data-driven insights with software engineering to create impactful solutions<br><br>📫 Let’s connect and collaborate!
 
 
